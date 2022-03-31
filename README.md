@@ -4,3 +4,6 @@
 ![Image text](https://github.com/KrealHtz/cbir-systeam/blob/main/icon/constrct.png)
 
 ![hh](https://github.com/KrealHtz/cbir-systeam/blob/main/icon/hh.png)
+
+UI设计如下
+![hh](https://github.com/KrealHtz/cbir-systeam/blob/main/icon/ui.png)
