@@ -12,6 +12,5 @@ UI设计如下
 如何运行？
 新建一个在项目目录下datase文件夹
 然后将自己的数据集放在下面，就可以开始构建自己的检索系统啦
-test
 数据集推荐：
 https://drive.google.com/file/d/1r6o0pSROcV1_VwT4oSjA2FBUSCWGuxLK/view
