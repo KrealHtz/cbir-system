@@ -67,7 +67,7 @@ def getglcm(img):
 
     try:
         img_shape=img.shape
-    except:
+    except AttributeError:
         print ('imread error')
         return -1
     GLCM_feature = []
